@@ -1,0 +1,6 @@
+State course & section
+State group number & topic
+List team members full names
+Display team slide in submission
+Viewable, clickable link to repo with a good README.md that displays all of the above information including repo title, URL, team slide displayed, your cited slide presentation in a docs folder, supporting code examples, cheatsheet, workshop guide, original video, or other useful summary/guide for reference. Required for all workshops.
+Include contents of class email telling us how to prepare for your workshop (hit 'forward' and copy & paste the contents into your submission.)
